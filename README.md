@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ## 🧰 Tech Stack
 
 - 💻 **Languages**: `C/C++`, `Python`, `MicroPython`, `SQL`  
-- 🔌 **Embedded Boards**: `STM MCU`, `BLE MCU`, `Arduino UNO`, `Arduino NANO`, `ESP32`, `NodeMCU`  
+- 🔌 **Embedded Boards**: `STM MCU`, `BLE MCU`, `ESP32`, `Arduino UNO`, `Arduino NANO`, `NodeMCU`  
 - ☁️ **Cloud & IoT**: `Consentium IoT`, `Chirpstack`, `LoRa`  
 - 🧪 **Tools**: `Segger Embedded Studio`, `STM Cube IDE`, `STM Cube Programmer`, `VS Code`, `Arduino IDE`, `nRF Connect`
 
