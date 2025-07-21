@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ## 👨‍🔬 About Me
 
 - 🧠 Currently building hardware-first solutions for healthcare and everyday challenges.  
-- ⚙️ Skilled in **STM MCU**, **BLE MCU**, **Arduino UNO**, **Arduino NANO**, **ESP32**, and **embedded systems prototyping**.  
+- ⚙️ Skilled in **STM32 MCU**, **BLE MCU**, **Arduino UNO**, **Arduino NANO**, **ESP32**, and **embedded systems prototyping**.  
 - 🩺 Passionate about **non-invasive medical devices** — creator of *GlucoVision* (tear-based glucose monitor) & *Tremor Tech* (Parkinson’s tremor relief band).  
 - ☁️ Exploring **Data Analysis**, **Data Modelling**, **IoT Cloud**, **Ultra Low-Power MCUs**, and **Custom UART BLE** systems.  
 - 🌍 On a mission to build tech that's **affordable**, **accessible**, and **impactful**.  
