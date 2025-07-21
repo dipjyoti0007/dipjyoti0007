@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 - 💻 **Languages**: `C/C++`, `Python`, `MicroPython`, `SQL`  
 - 🔌 **Embedded Boards**: `STM MCU`, `BLE MCU`, `ESP32`, `Arduino UNO`, `Arduino NANO`, `NodeMCU`  
 - ☁️ **Cloud & IoT**: `Consentium IoT`, `Chirpstack`, `LoRa`  
-- 🧪 **Tools**: `Segger Embedded Studio`, `STM Cube IDE`, `STM Cube Programmer`, `VS Code`, `Arduino IDE`, `Tableau`, `nRF Connect`
+- 🧪 **Tools**: `Segger Embedded Studio`, `STM32CubeIDE`, `STM32CubeProgrammer`, `VS Code`, `Arduino IDE`, `Tableau`, `nRF Connect`
 
 ---
 
@@ -56,3 +56,4 @@ Here are some ideas to get you started:
 
 <p align="center">🔧 Always building. ⚡ Always learning. 🎯 Let’s make cool things that help real people! ✨</p>
 
+ 
