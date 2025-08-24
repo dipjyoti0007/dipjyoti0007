@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - ⚙️ Skilled in **STM32 MCU**, **BLE MCU**, **Arduino UNO**, **Arduino NANO**, **ESP32**, and **embedded systems prototyping**.  
 - 🩺 Passionate about **non-invasive medical devices** — creator of *GlucoVision* (tear-based glucose monitor) & *Tremor Tech* (Parkinson’s tremor relief band).  
 - ☁️ Exploring **Data Analysis**, **Data Modelling**, **IoT Cloud**, **Ultra Low-Power MCUs**, and **Custom UART BLE** systems.  
-- 🌍 On a mission to build tech that's **affordable**, **accessible**, and **impactful**.  
+
 
 ### 📬 Let's Connect:
 
@@ -54,6 +54,6 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="center">🔧 Always building. ⚡ Always learning. 🎯 Let’s make cool things that help real people! ✨</p>
+<p align="center">🔧 Always building. ⚡ Always learning. </p>
 
  
